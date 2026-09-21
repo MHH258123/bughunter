@@ -6,7 +6,7 @@ void main() {
     if (isAdult(age)) {
         IO.println("Du er en voksen.");
     } else {
-        IO.println("Du er ikke en voksen.");
+        IO.println("Du er ikke voksen.");
     }
 }
 
